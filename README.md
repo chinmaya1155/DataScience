@@ -1,1 +1,2 @@
-# DataScience
+Data science is a disciplinary field that uses scientific methods, processes, algorithms and systems to extract knowledge and insights from many structural and unstructured data.Data science related to data mining, deep learning and big data.
+I have started learning Data Science and want to explore more with my Python skills. The Journey begins from here...
